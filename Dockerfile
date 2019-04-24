@@ -1,5 +1,5 @@
 FROM jboss/base:latest
-MAINTAINER Marek Goldmann
+MAINTAINER Jeff Sun
 
 # User root user to install software
 USER root
